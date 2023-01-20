@@ -121,7 +121,7 @@ margin-bottom: 2.5em;
   order: 1;
 }
 
-/* Section-2 */
+/* Section-two */
 .section-two__part-one{
   text-align: center;
   margin-bottom: 4em;
@@ -245,8 +245,6 @@ padding-bottom: 3em;
 .a11y-slider-dots li button.active {
   background: hsl(12, 88%, 59%);
 }
-
-
 
 .section-three__btn{
   display: inline-block;
